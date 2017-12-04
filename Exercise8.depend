@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1509980743 source:g:\exercise8\main.cpp
+	<iostream>
+	<math.h>
+
+1509982182 source:g:\exercise9\main.cpp
+	<iostream>
+	<cmath>
+
