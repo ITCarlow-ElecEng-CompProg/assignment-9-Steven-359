@@ -50,7 +50,7 @@ int main()
 
 
      *ptra = 4 * M_PI* pow(rad,2);
-     *ptrv = (4/3)* M_PI* pow(rad,3);
+     *ptrv = (4/3.0)* M_PI* pow(rad,3);
 
      return;
 
